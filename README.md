@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hakima</h1>
+
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=FF0099&center=true&vCenter=true&lines=data+analyst;functional+developer">
+</p>
+
 <h3 align="center">A passionate data analyst and self-taught frontend developer from France</h3>
 
 - 📫 How to reach me **hakimaachak31@gmail.com**
