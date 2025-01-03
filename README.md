@@ -22,7 +22,3 @@
 <br>
 
 <p align="right">I’ve mastered the art of Googling error messages 😜 </p>
-<h3 align="right"">Connect with me:</h3>
-<p align="right"">
-<a href="https://linkedin.com/in/hakima-achak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakima-achak" height="30" width="40" /></a>
-</p>
