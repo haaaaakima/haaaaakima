@@ -52,9 +52,3 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="SwiftUI" width="40" height="40"/>
     </a>
 </p>
-
-
-<br>
-<br>
-
-<p align="right">I’ve mastered the art of Googling error messages 😜 </p>
