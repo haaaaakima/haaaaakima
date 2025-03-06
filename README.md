@@ -16,7 +16,7 @@
 
 <h3 align="center">⚡ A passionate Data Analyst and self-taught Full Stack Developer from France</h3>
 
-### Top Repositories
+### Mes projets
 
 <a href="https://github.com/haaaaakima/GOTRIP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haaaaakima&repo=GOTRIP&theme=algolia" />
