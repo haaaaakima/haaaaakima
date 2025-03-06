@@ -16,7 +16,7 @@
 
 <h3 align="center">⚡ A passionate Data Analyst and self-taught Full Stack Developer from France</h3>
 
-### My main data projects
+### Main Data Projects
 
 <div align="center">
   <a href="https://github.com/haaaaakima/rapport-de-stage">
