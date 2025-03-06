@@ -16,6 +16,24 @@
 
 <h3 align="center">⚡ A passionate Data Analyst and self-taught Full Stack Developer from France</h3>
 
+### Top Repositories
+
+<a href="https://github.com/haaaaakima/GOTRIP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haaaaakima&repo=GOTRIP&theme=algolia" />
+</a>
+<a href="https://github.com/haaaaakima/projet-airbus/blob/main/README.md">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haaaaakima&repo=Projet-Airbus&theme=algolia" />
+</a>
+<a href="https://github.com/haaaaakima/projet-swift-appli-iOS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haaaaakima&repo=Projet-Swift-Appli-iOS&theme=algolia" />
+</a>
+
+### Connect With Me:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakima-achak) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakimaachak31@gmail.com)
+
+<!-- Top Usage Languages: -->
 <p align="center">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
