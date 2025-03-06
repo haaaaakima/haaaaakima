@@ -16,20 +16,7 @@
 
 <h3 align="center">⚡ A passionate Data Analyst and self-taught Full Stack Developer from France</h3>
 
-### Mes projets
 
-<a href="https://github.com/haaaaakima/rapport-de-stage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haaaaakima&repo=rapport-de-stage&theme=algolia" />
-</a>
-<a href="https://github.com/haaaaakima/GOTRIP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haaaaakima&repo=GOTRIP&theme=algolia" />
-</a>
-<a href="https://github.com/haaaaakima/projet-airbus/blob/main/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haaaaakima&repo=Projet-Airbus&theme=algolia" />
-</a>
-<a href="https://github.com/haaaaakima/projet-swift-appli-iOS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haaaaakima&repo=Projet-Swift-Appli-iOS&theme=algolia" />
-</a>
 
 ### Connect With Me:
 
