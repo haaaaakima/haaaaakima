@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hakima</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=FF0099&center=true&vCenter=true&lines=Data+Analyst;Functional+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=FF0099&center=true&vCenter=true&lines=Data+Analyst;Functional+Developer;Full+Stack+Developer">
 </p>
 
 ---
