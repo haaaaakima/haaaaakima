@@ -50,6 +50,9 @@
 ## ⚙️ Tech Stack  
 
 <p>
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> 
+    </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
     </a>
@@ -85,6 +88,9 @@
     </a>
     <a href="https://developer.apple.com/xcode/swiftui/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="SwiftUI" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
     </a>
     <a href="https://wordpress.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> 
