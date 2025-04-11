@@ -89,5 +89,8 @@
     <a href="https://wordpress.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> 
     </a>
+    <a href="https://woocommerce.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="WooCommerce" width="40" height="40"/> 
+    </a>
 </p>
 
