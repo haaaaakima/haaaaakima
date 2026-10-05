@@ -31,8 +31,8 @@
 <td width="50%" valign="top">
 <a href="https://github.com/haaaaakima/assiette"><img src="./projects/assiette.jpg" alt="🥑 assiette" width="100%"></a>
 <h3><a href="https://github.com/haaaaakima/assiette">🥑 assiette</a></h3>
-<p>Live product: personalised meal plans in 2 minutes. Guided questionnaire, nutrition engine, generated PDF programme and calendar, Stripe payments.</p>
-<p><sub>JavaScript · Netlify Functions · Stripe · PDF generation · <a href="https://assiette-app.netlify.app">Live site ↗</a></sub></p>
+<p>Live product: personalised meal plans in 2 minutes. Guided questionnaire, nutrition engine, generated PDF programme and calendar, online payment.</p>
+<p><sub>JavaScript · Netlify Functions · PDF generation · <a href="https://assiette-app.netlify.app">Live site ↗</a></sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/haaaaakima/minibus"><img src="./projects/minibus.jpg" alt="🚐 MiniBus Location" width="100%"></a>
