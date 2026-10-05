@@ -24,16 +24,60 @@
 
 ---
 
-## 📊 My Main Data Projects  
+## 🚀 My Projects
 
-<div align="center">
-  <a href="https://github.com/haaaaakima/rapport-de-stage">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haaaaakima&repo=rapport-de-stage&theme=algolia" />
-  </a>
-  <a href="https://github.com/haaaaakima/projet-airbus/blob/main/README.md">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haaaaakima&repo=Projet-Airbus&theme=algolia" />
-  </a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/haaaaakima/minibus"><img src="./projects/minibus.jpg" alt="🚐 MiniBus Location" width="100%"></a>
+<h3><a href="https://github.com/haaaaakima/minibus">🚐 MiniBus Location</a></h3>
+<p>Minibus rental website with real-time availability calendar, online booking, PayPal deposit payment and an admin dashboard.</p>
+<p><sub>PHP · MySQL · JavaScript · PayPal API</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/haaaaakima/AppSanteSwift"><img src="./projects/helpy.jpg" alt="🤝 HelpY" width="100%"></a>
+<h3><a href="https://github.com/haaaaakima/AppSanteSwift">🤝 HelpY</a></h3>
+<p>iOS app connecting volunteers and professionals with people who need help nearby, with an interactive map. Designed in Figma first.</p>
+<p><sub>Swift · SwiftUI · MapKit · Figma</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/haaaaakima/projet-airbus"><img src="./projects/airbus.jpg" alt="✈️ Airbus Dashboard" width="100%"></a>
+<h3><a href="https://github.com/haaaaakima/projet-airbus">✈️ Airbus Dashboard</a></h3>
+<p>Decision-support project: data architecture and Power BI dashboards to track stock, deliveries and roll-out.</p>
+<p><sub>Power BI · SQL · Data modeling</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/haaaaakima/rapport-de-stage"><img src="./projects/stage.jpg" alt="📈 Internship BI Dashboards" width="100%"></a>
+<h3><a href="https://github.com/haaaaakima/rapport-de-stage">📈 Internship BI Dashboards</a></h3>
+<p>Power BI reporting built during my internship: revenue vs budget, revenue per client and the underlying data model.</p>
+<p><sub>Power BI · DAX · Data warehouse</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/haaaaakima/list-meteo-in-swift"><img src="./projects/meteo.jpg" alt="🌦️ Weather App" width="100%"></a>
+<h3><a href="https://github.com/haaaaakima/list-meteo-in-swift">🌦️ Weather App</a></h3>
+<p>Technical test: live weather for French cities with animated backgrounds and °C / °F switch.</p>
+<p><sub>Swift · SwiftUI · REST API · MVVM</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/haaaaakima/List-movies-in-swift-swiftui"><img src="./projects/films.jpg" alt="🎬 Movies Catalogue" width="100%"></a>
+<h3><a href="https://github.com/haaaaakima/List-movies-in-swift-swiftui">🎬 Movies Catalogue</a></h3>
+<p>Browse films, series, mangas and K-dramas by category, with detail pages and trailers.</p>
+<p><sub>Swift · SwiftUI</sub></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://haaaaakima.github.io/"><img src="./projects/jeux-web.jpg" alt="Web games" width="60%"></a>
+<h3><a href="https://haaaaakima.github.io/">🎮 Web Games — play online</a></h3>
+<p>Quiz, riddles and Snake, playable directly in the browser.</p>
+<p><sub>HTML · CSS · JavaScript</sub></p>
+</td>
+</tr>
+</table>
 
 ---
 
