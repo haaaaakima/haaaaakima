@@ -43,27 +43,21 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/haaaaakima/cookcircle-co-create"><img src="./projects/cookcircle.jpg" alt="🍳 CookCircle" width="100%"></a>
-<h3><a href="https://github.com/haaaaakima/cookcircle-co-create">🍳 CookCircle</a></h3>
-<p>Social network to cook together: collaborative recipe editor, live co-cooking sessions, real-time chat and an AI assistant.</p>
-<p><sub>React · TypeScript · Node.js · Prisma · Socket.IO · OpenAI</sub></p>
-</td>
-<td width="50%" valign="top">
 <a href="https://github.com/haaaaakima/AppSanteSwift"><img src="./projects/helpy.jpg" alt="🤝 HelpY" width="100%"></a>
 <h3><a href="https://github.com/haaaaakima/AppSanteSwift">🤝 HelpY</a></h3>
 <p>iOS app connecting volunteers and professionals with people who need help nearby, with an interactive map. Designed in Figma first.</p>
 <p><sub>Swift · SwiftUI · MapKit · Figma</sub></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/haaaaakima/projet-airbus"><img src="./projects/airbus.jpg" alt="✈️ Airbus Dashboard" width="100%"></a>
 <h3><a href="https://github.com/haaaaakima/projet-airbus">✈️ Airbus Dashboard</a></h3>
 <p>Decision-support project: data architecture and Power BI dashboards to track stock, deliveries and roll-out.</p>
 <p><sub>Power BI · SQL · Data modeling</sub></p>
 </td>
-<td width="50%" valign="top">
-<a href="https://github.com/haaaaakima/rapport-de-stage"><img src="./projects/stage.jpg" alt="📈 Internship BI Dashboards" width="100%"></a>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+<a href="https://github.com/haaaaakima/rapport-de-stage"><img src="./projects/stage.jpg" alt="📈 Internship BI Dashboards" width="60%"></a>
 <h3><a href="https://github.com/haaaaakima/rapport-de-stage">📈 Internship BI Dashboards</a></h3>
 <p>Power BI reporting built during my internship: revenue vs budget, revenue per client and the underlying data model.</p>
 <p><sub>Power BI · DAX · Data warehouse</sub></p>
