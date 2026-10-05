@@ -24,15 +24,29 @@
 
 ---
 
-## 🚀 My Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<a href="https://assiette-app.netlify.app"><img src="./projects/assiette.jpg" alt="🥑 assiette" width="100%"></a>
+<h3><a href="https://assiette-app.netlify.app">🥑 assiette</a></h3>
+<p>Live product: personalised meal plans in 2 minutes. Guided questionnaire, nutrition engine, generated PDF programme and calendar, Stripe payments.</p>
+<p><sub>JavaScript · Netlify Functions · Stripe · PDF generation · <a href="https://assiette-app.netlify.app">Live site ↗</a></sub></p>
+</td>
+<td width="50%" valign="top">
 <a href="https://github.com/haaaaakima/minibus"><img src="./projects/minibus.jpg" alt="🚐 MiniBus Location" width="100%"></a>
 <h3><a href="https://github.com/haaaaakima/minibus">🚐 MiniBus Location</a></h3>
-<p>Minibus rental website with real-time availability calendar, online booking, PayPal deposit payment and an admin dashboard.</p>
+<p>Rental website for a real business: availability calendar, 3-step booking, PayPal deposit, automatic e-mails and admin dashboard.</p>
 <p><sub>PHP · MySQL · JavaScript · PayPal API</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/haaaaakima/cookcircle-co-create"><img src="./projects/cookcircle.jpg" alt="🍳 CookCircle" width="100%"></a>
+<h3><a href="https://github.com/haaaaakima/cookcircle-co-create">🍳 CookCircle</a></h3>
+<p>Social network to cook together: collaborative recipe editor, live co-cooking sessions, real-time chat and an AI assistant.</p>
+<p><sub>React · TypeScript · Node.js · Prisma · Socket.IO · OpenAI</sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/haaaaakima/AppSanteSwift"><img src="./projects/helpy.jpg" alt="🤝 HelpY" width="100%"></a>
@@ -55,29 +69,9 @@
 <p><sub>Power BI · DAX · Data warehouse</sub></p>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/haaaaakima/list-meteo-in-swift"><img src="./projects/meteo.jpg" alt="🌦️ Weather App" width="100%"></a>
-<h3><a href="https://github.com/haaaaakima/list-meteo-in-swift">🌦️ Weather App</a></h3>
-<p>Technical test: live weather for French cities with animated backgrounds and °C / °F switch.</p>
-<p><sub>Swift · SwiftUI · REST API · MVVM</sub></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/haaaaakima/List-movies-in-swift-swiftui"><img src="./projects/films.jpg" alt="🎬 Movies Catalogue" width="100%"></a>
-<h3><a href="https://github.com/haaaaakima/List-movies-in-swift-swiftui">🎬 Movies Catalogue</a></h3>
-<p>Browse films, series, mangas and K-dramas by category, with detail pages and trailers.</p>
-<p><sub>Swift · SwiftUI</sub></p>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<a href="https://haaaaakima.github.io/"><img src="./projects/jeux-web.jpg" alt="Web games" width="60%"></a>
-<h3><a href="https://haaaaakima.github.io/">🎮 Web Games — play online</a></h3>
-<p>Quiz, riddles and Snake, playable directly in the browser.</p>
-<p><sub>HTML · CSS · JavaScript</sub></p>
-</td>
-</tr>
 </table>
+
+<p align="center"><sub>More: <a href="https://github.com/haaaaakima/list-meteo-in-swift">Weather app (SwiftUI)</a> · <a href="https://github.com/haaaaakima/List-movies-in-swift-swiftui">Movies catalogue (SwiftUI)</a> · <a href="https://haaaaakima.github.io/">Web games</a></sub></p>
 
 ---
 
