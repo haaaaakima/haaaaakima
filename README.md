@@ -37,8 +37,8 @@
 <td width="50%" valign="top">
 <a href="https://github.com/haaaaakima/minibus"><img src="./projects/minibus.jpg" alt="🚐 MiniBus Location" width="100%"></a>
 <h3><a href="https://github.com/haaaaakima/minibus">🚐 MiniBus Location</a></h3>
-<p>Rental website for a real business: availability calendar, 3-step booking, PayPal deposit, automatic e-mails and admin dashboard.</p>
-<p><sub>PHP · MySQL · JavaScript · PayPal API</sub></p>
+<p>Minibus rental website: availability calendar, 3-step online booking, deposit payment, automatic e-mails and admin dashboard.</p>
+<p><sub>PHP · MySQL · JavaScript</sub></p>
 </td>
 </tr>
 <tr>
