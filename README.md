@@ -49,15 +49,21 @@
 <p><sub>Swift · SwiftUI · MapKit · Figma</sub></p>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/haaaaakima/list-meteo-in-swift"><img src="./projects/meteo.jpg" alt="🌦️ Weather App" width="100%"></a>
+<h3><a href="https://github.com/haaaaakima/list-meteo-in-swift">🌦️ Weather App</a></h3>
+<p>Technical test: live weather for French cities with animated backgrounds, search and °C / °F switch.</p>
+<p><sub>Swift · SwiftUI · REST API · async/await · MVVM</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/haaaaakima/projet-airbus"><img src="./projects/airbus.jpg" alt="✈️ Airbus Dashboard" width="100%"></a>
 <h3><a href="https://github.com/haaaaakima/projet-airbus">✈️ Airbus Dashboard</a></h3>
 <p>Decision-support project: data architecture and Power BI dashboards to track stock, deliveries and roll-out.</p>
 <p><sub>Power BI · SQL · Data modeling</sub></p>
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
-<a href="https://github.com/haaaaakima/rapport-de-stage"><img src="./projects/stage.jpg" alt="📈 Internship BI Dashboards" width="60%"></a>
+<td width="50%" valign="top">
+<a href="https://github.com/haaaaakima/rapport-de-stage"><img src="./projects/stage.jpg" alt="📈 Internship BI Dashboards" width="100%"></a>
 <h3><a href="https://github.com/haaaaakima/rapport-de-stage">📈 Internship BI Dashboards</a></h3>
 <p>Power BI reporting built during my internship: revenue vs budget, revenue per client and the underlying data model.</p>
 <p><sub>Power BI · DAX · Data warehouse</sub></p>
@@ -65,7 +71,7 @@
 </tr>
 </table>
 
-<p align="center"><sub>More: <a href="https://github.com/haaaaakima/list-meteo-in-swift">Weather app (SwiftUI)</a> · <a href="https://github.com/haaaaakima/List-movies-in-swift-swiftui">Movies catalogue (SwiftUI)</a> · <a href="https://haaaaakima.github.io/">Web games</a></sub></p>
+<p align="center"><sub>More: <a href="https://github.com/haaaaakima/List-movies-in-swift-swiftui">Movies catalogue (SwiftUI)</a> · <a href="https://haaaaakima.github.io/">Web games</a></sub></p>
 
 ---
 
